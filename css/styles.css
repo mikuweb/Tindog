@@ -1,0 +1,125 @@
+body{
+  font-family: 'Montserrat';
+  }
+
+  #title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+
+.container{
+  padding: 3% 15%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+h1{
+  font-family: 'Montserrat-Black';
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.iphonedog-img{
+   transform: rotateZ( 30deg );
+   padding: 0px 15px;
+   width: 300px;
+}
+
+.navbar{
+padding-bottom: 4.5rem;
+}
+
+
+/* Navigation Bar */
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light';
+}
+
+/*Features*/
+#features{
+  padding: 7% 15%;
+  padding: 4.5%;
+}
+
+.feature-box{
+text-align: center;
+}
+
+.icon{
+  margin-bottom: 1rem;
+  color: #ef8172;
+}
+
+/* ☆☆なんでほばーしないの☆☆ */
+.icon:hover{
+  color: #ff4c68;
+}
+
+h3{
+font-family: 'Montserrat-bold';
+margin: 20px;
+font-size: 2rem;
+}
+
+.f-description{
+  color: #8f8f8f;
+}
+
+/*★テスティモニアル★*/
+
+#testimonials{
+  background-color: #ef8172;
+  color: #FFF;
+  text-align: center;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.testimonial-text{
+  padding: 7% 15%;
+  font-family: 'Montserrat-bold';
+  font-size: 3rem;
+  line-height: : 1.5;
+}
+
+h2{
+  font-family: "Montserrat-Bold";
+}
+
+#press{
+  background-color: #ef8172;
+ text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/*★プライス★  */
+#pricing{
+  padding: 100px;
+}
+
+.price-title{
+  text-align: center;
+  font-size:
+}
